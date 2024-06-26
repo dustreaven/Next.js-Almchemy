@@ -256,17 +256,7 @@ export default function PriceView({
       )}
 
       <p className="text-md text-center p-4 text-gray-500">
-        Check out the{" "}
-        <u className="underline">
-          <a href="https://0x.org/docs/0x-swap-api/guides/build-token-swap-dapp-nextjs">
-            0x Docs
-          </a>
-        </u>{" "}
-        and{" "}
-        <u className="underline">
-          <a href="https://github.com/0xProject/0x-examples/tree/main">Code</a>
-        </u>{" "}
-        to build your own
+        All rights reserved.
       </p>
     </form>
   );
