@@ -15,10 +15,10 @@ const config = createConfig(
     walletConnectProjectId: "a8024e8262cb4e7102941a3577b5a5c0",
 
     // Required
-    appName: "0x Next.js Demo App",
+    appName: "Martex Swap",
 
     // Optional
-    appDescription: "A Next.js demo app for 0x Swap API and ConnectKit",
+    appDescription: "Martex Swap, under construction, fee=3.15%",
   })
 );
 
@@ -29,7 +29,7 @@ export default function App({ Component, pageProps }: AppProps) {
   return (
     <div
       style={{
-        padding: "20px",
+        padding: "25px",
       }}
     >
       <WagmiConfig config={config}>
