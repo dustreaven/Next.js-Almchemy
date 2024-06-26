@@ -123,9 +123,7 @@ export default function PriceView({
 
   return (
     <form>
-      <h1 className="text-center text-3xl font-bold mb-4">0x Swap Demo</h1>
-
-      <p className="text-md text-center font-bold mb-2">Polygon Network</p>
+      <h1 className="text-center text-3xl font-bold mb-4">Martex Swap</h1>
 
       <div className="bg-slate-200 dark:bg-slate-800 p-4 rounded-md mb-3">
         <section className="mt-4 flex items-start justify-center">
