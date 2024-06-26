@@ -12,7 +12,7 @@ const config = createConfig(
   getDefaultConfig({
     // Required API Keys
     alchemyId: "MzUaa0A87yexjd8UKcHm8HIr1f4aghxT",
-    walletConnectProjectId: "a8024e8262cb4e7102941a3577b5a5c0",
+    walletConnectProjectId: "224fed3b5469fd303a17be2be8f72ad2",
 
     // Required
     appName: "Martex Swap",
